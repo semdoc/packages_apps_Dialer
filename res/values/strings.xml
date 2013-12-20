@@ -635,4 +635,6 @@
 
     <!-- Content description for dismiss button on badge. [CHAR LIMIT=NONE] -->
     <string name="description_dismiss">Dismiss</string>
+
+    <string name="calllog_search_hint">"Search call log"</string>
 </resources>
