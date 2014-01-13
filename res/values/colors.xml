@@ -72,4 +72,10 @@
 
     <!-- Text color for no favorites message -->
     <color name="nofavorite_text_color">#777777</color>
+
+    <!-- Text color for google dialer settings -->
+    <color name="google_settings_text_color">#ff555555</color>
+    <!-- Background google dialer settings -->
+    <color name="google_settings_background">#ffdedede</color>
+
 </resources>
