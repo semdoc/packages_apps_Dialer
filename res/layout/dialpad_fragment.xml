@@ -43,8 +43,7 @@
             android:layout_width="match_parent"
             android:layout_height="0px"
             android:layout_weight="@integer/dialpad_layout_weight_digits"
-            android:gravity="center"
-            android:background="@color/background_digits_dialpad" >
+            android:gravity="center" >
 
             <com.android.dialer.dialpad.DigitsEditText
                 android:id="@+id/digits"
