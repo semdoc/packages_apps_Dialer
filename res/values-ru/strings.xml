@@ -161,4 +161,14 @@
     <string name="no_favorites" msgid="5212485868783382971">"Здесь будут отображаться избранные элементы\nи контакты, которым вы звоните чаще всего.\nОбщайтесь с удовольствием."</string>
     <string name="contact_tooltip" msgid="7817483485692282287">"Нажмите на фото, чтобы посмотреть все номера. Чтобы изменить порядок номеров, нажмите и удерживайте фото."</string>
     <string name="description_dismiss" msgid="2146276780562549643">"Закрыть"</string>
+
+    <string name="dialpad_2_2_letters">АБВГ</string>
+    <string name="dialpad_3_2_letters">ДЕЖЗ</string>
+    <string name="dialpad_4_2_letters">ИЙКЛ</string>
+    <string name="dialpad_5_2_letters">МНОП</string>
+    <string name="dialpad_6_2_letters">РСТУ</string>
+    <string name="dialpad_7_2_letters">ФХЦЧ</string>
+    <string name="dialpad_8_2_letters">ШЩЪЫ</string>
+    <string name="dialpad_9_2_letters">ЬЭЮЯ</string>
+
 </resources>
