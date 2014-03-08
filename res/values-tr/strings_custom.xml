@@ -71,8 +71,6 @@
     <string name="menu_add_to_blacklist">Kara Listeye dahil et</string>
     <string name="toast_added_to_blacklist">%s Kara Listeye eklendi.</string>
 
-    <string name="nearby_places">Yakın Yerler</string>
-
     <!--  Localized dialer buttons.
           In English, we don't need a secondary row, so all values are empty.
           Change these values depending on your language requirements.
@@ -90,4 +88,6 @@
     <string name="dialpad_star_2_letters" translatable="false"></string>
     <string name="dialpad_pound_2_letters" translatable="false"></string>
 
+    <!-- Forward lookup -->
+    <string name="nearby_places">Yakın Yerler</string>
 </resources>
