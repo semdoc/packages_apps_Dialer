@@ -62,4 +62,8 @@
     <string name="incall_dnd_dialog_message">In order to enable Do Not Disturb, the Phone app needs to be granted the permission to control the Do Not Disturb status.\nPlease allow it.</string>
     <string name="allow">Allow</string>
     <string name="deny">Deny</string>
+
+    <!-- proximity autoanswer feature -->
+    <string name="prox_auto_answer_incall_only_title">Auto answer</string>
+    <string name="prox_auto_answer_incall_only_summary">Use proximity sensor for autoanswer</string>
 </resources>
