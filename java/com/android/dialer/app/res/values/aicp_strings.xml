@@ -72,4 +72,12 @@
     <string name="auto_answer_delay_title">Autoanswer delay</string>
     <string name="auto_answer_dialog_title">Autoanswer delay in (ms)</string>
     <string name="auto_answer_delay_summary">Autoanswer will be activated in <xliff:g id="number">%d</xliff:g> ms</string>
+
+    <!-- Call Recording -->
+    <string name="call_recording_category_key" translatable="false">call_recording_category</string>
+    <string name="call_recording_category_title">Call recording</string>
+    <string name="call_recording_format_key" translatable="false">call_recording_format</string>
+    <string name="call_recording_format">Audio format</string>
+    <string name="wb_amr_format" translatable="false">AMR-WB</string>
+    <string name="aac_format" translatable="false">AAC</string>
 </resources>
