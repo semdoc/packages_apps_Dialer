@@ -17,7 +17,7 @@
 
 <resources>
 
-  <style name="Dialer.Incall.TextAppearance" parent="android:TextAppearance.Material">
+  <style name="Dialer.Incall.TextAppearance" parent="android:TextAppearance.DeviceDefault">
     <item name="android:textColor">?android:attr/textColorSecondary</item>
     <item name="android:textSize">18sp</item>
   </style>
